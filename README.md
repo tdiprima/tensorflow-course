@@ -4,6 +4,8 @@ This repository contains the materials from Tim Ruscica's TensorFlow course, enh
 
 The section on reinforcement learning has been completely revamped due to initial non-functioning issues.
 
+Explanation documents are courtesy of Claude Code.
+
 ## Tim Ruscica's TensorFlow Course
 
 Watch the [Course Video](https://youtu.be/tPYj3fFJGjk).
