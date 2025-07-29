@@ -22,4 +22,5 @@
 * Module 7: Reinforcement Learning with Q-Learning ([06:08:00](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=22080s))
 * Module 8: Conclusion and Next Steps ([06:48:24](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=24504s))
 
+See also:
 [Machine-Learning-with-Python](https://github.com/ralphcajipe/Machine-Learning-with-Python)
