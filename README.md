@@ -1,8 +1,12 @@
 # TensorFlow
 
-This repository contains the materials from Tim Ruscica's TensorFlow course, enhanced with my own modifications.
+![Course Completed](https://img.shields.io/badge/Course-Completed-brightgreen)
+![Built with Python](https://img.shields.io/badge/Python-3.9-blue)
+![GitHub Repo](https://img.shields.io/badge/Code%20Edited%20by%20Me-Yes-orange)
 
-The section on reinforcement learning has been completely revamped due to initial non-functioning issues.
+This repository contains materials from Tim Ruscica's TensorFlow course, which I completed some time ago.
+
+I completely revamped the section on reinforcement learning due to initial non-functioning issues.
 
 Explanation documents are courtesy of Claude Code.
 
@@ -31,5 +35,3 @@ Explore the course modules using these Google Colab notebooks:
 - **Module 6:** Natural Language Processing with RNNs - [04:40:44](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=16844s)
 - **Module 7:** Reinforcement Learning with Q-Learning - [06:08:00](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=22080s)
 - **Module 8:** Conclusion and Next Steps - [06:48:24](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=24504s)
-
-For additional resources, see the [Machine Learning with Python repository](https://github.com/ralphcajipe/Machine-Learning-with-Python).
